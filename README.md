@@ -1,4 +1,4 @@
-## Hello,
+## Hello
 
 I am a physics undergraduate with a strong interest in mathematical and theoretical physics.
 
