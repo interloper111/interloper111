@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hello,
 
+I am a physics undergraduate with a strong interest in mathematical and theoretical physics.
+
+This GitHub profile is a working archive of my studies into the deeper conceptual ideas within physics and mathematics.
 <!--
 **interloper111/interloper111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
