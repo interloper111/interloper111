@@ -2,7 +2,7 @@
 
 I am a physics undergraduate with a strong interest in mathematical and theoretical physics.
 
-This GitHub profile is a working archive of my studies and findings in physics and mathematics.
+This GitHub profile is a working archive of my studies and findings in physics and maths.
 
 It may or may not also contain random bs, you have been warned.
 <!--
