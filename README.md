@@ -2,8 +2,7 @@
 
 I am a physics undergraduate with a strong interest in mathematical and theoretical physics.
 
-This GitHub profile is a working archive of my studies into physics and maths.
-It may or may not also contain random bs, you have been warned.
+This GitHub profile is used to store notes/projects about things I find interesting enough I feel the need to archive it, AKA random bs.
 <!--
 **interloper111/interloper111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
